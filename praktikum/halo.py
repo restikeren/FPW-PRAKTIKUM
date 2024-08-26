@@ -1,1 +1,0 @@
-print("folder praktikum Resti Dwi Artika 2210631170042")
